@@ -1,4 +1,4 @@
-![Legal Connect AI Logo](logo.png)
+
 
 # Legal Connect AI ⚖️🤖
 AI-powered Legal Connect learning project
